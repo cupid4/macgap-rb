@@ -1,3 +1,5 @@
+# 맥에서 독립 브라우저 프로그램 작성
+
 # MacGap generator
 
 MacGap is a lightweight WebKit wrapper for HTML apps, allowing you to distribute web applications as desktop apps. 
